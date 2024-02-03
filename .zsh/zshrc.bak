@@ -1,0 +1,4 @@
+eval "$(starship init zsh)"
+source ~/.zsh_extra
+source ~/.zsh_alias
+source ~/.fzf.zsh

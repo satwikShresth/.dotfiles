@@ -1,0 +1,33 @@
+#brew stuff
+alias  bi='brew install'
+alias  bic='brew install --cask'
+alias  bu='brew uninstall'
+
+#cd stuff
+alias  cd..='cd ..'
+
+#l stuff
+alias  l='ls -lah'
+alias  la='ls -lAh'
+alias  ll='ls -lh'
+alias  lll='ls -ltr'
+alias  ls='ls -G'
+alias  lsa='ls -lah'
+
+#make stuff
+alias  md='mkdir -p'
+#remove stuff
+alias  rd=rmdir
+alias  rmf='rm -rf'
+
+alias  run-help=man
+#source stuff
+alias  szal='source ~/.zsh_alias'
+alias  szp='source ~/.zprofile'
+alias  szrc='source ~/.zshrc'
+
+alias  tcf='nvim .tmux.conf '
+alias  tn='tmux new -n'
+alias  zal='$EDITOR ~/.zsh_alias && szal'
+alias  zrc='$EDITOR ~/.zshrc && szrc'
+alias  zpf='$EDITOR ~/.zprofile && szp'

@@ -1,0 +1,7 @@
+#!/bin/zsh
+
+#turnacate
+cat ~/.zsh/zprofile.bak  > ~/.zprofile
+cat ~/.zsh/zshrc.bak > ~/.zshrc
+cat ~/.zsh/zsh_alias.bak > ~/.zsh_alias
+cat ~/.zsh/zsh_extra.bak > ~/.zsh_extra

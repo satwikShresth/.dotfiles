@@ -1,0 +1,1029 @@
+cd AdventOfCode
+l
+rm go.mod
+l
+cd..
+l
+nm main.go
+l
+l
+nm
+l
+mv AdventOfCode/day_1 .
+l
+go run 
+go run .
+cd..l
+cd..
+l
+oap
+mkdir github.com/satwikShresth
+l
+mkdir --help
+mkdir github.com
+l
+cd github.com
+l
+mkdir satwikShresth
+l
+cd satwikShresth
+l
+mkdir AdventOfCode
+l
+mv AdventOfCode AdventOfCode2023
+l
+l
+cd AdventOfCode2023
+l
+go mod init AdventOfCode2023
+l
+l
+mkdir cmd
+l
+cd cmd
+l
+mkdir main
+l
+cd main
+l
+nm main.go
+;
+l
+cd.
+cd..
+l
+cd..
+l
+mkdir pkg
+l
+l
+cd pkg
+l
+mkdir day_1
+l
+mkdir day_2l
+l
+mv day_2l day_2
+l
+cd..
+l
+cd cmd
+l
+cd main
+l
+nm
+l
+cd..
+l
+cd..
+l
+nm
+cp ./../../../AOC/day_1/puzzle.input ./pkg/day_1
+cp ./../../../AOC/day_1/soln.go ./pkg/day_1
+l
+cd cmd
+l
+cd main
+l
+nm 
+l
+cd..
+l
+cd..
+l
+go run .
+cd..
+l
+cd..
+l
+cd..
+l
+mv github.com/satwikShresth/AdventOfCode2023 .
+l
+rmrf github.com
+l
+cd AdventOfCode2023
+l
+go run .
+go run ./cmd/main/main.go
+go run ./cmd/main/main.go
+go run ./cmd/main
+l
+cd cmd
+l
+cd main
+l
+nm
+go run ./cmd/main
+cd..
+cd..
+go run ./cmd/main
+l
+cd pkg
+l
+cd day_
+cd day_1
+l;
+cd
+cd -
+l
+cd..
+l
+cd..
+l
+nm 
+go run ./cmd/main
+cd pkg
+l
+cd day_
+cd day_1
+l
+cd..
+l
+cd..
+l
+cd cmd
+l
+cd main
+l
+nm
+l
+cd..
+cd..
+go run ./cmd/main
+l
+cd pkg
+l
+cd day_
+nm
+cd..
+go run ./cmd/main
+nm
+go run ./cmd/main
+nm
+go run ./cmd/main
+l
+cd pkg
+l
+nm
+go run ./cmd/main
+cd..
+go run ./cmd/main
+nm
+go run ./cmd/main
+nm
+nm
+nm
+l
+go run ./cmd/main
+nm
+go run ./cmd/main
+oap
+bic chrome
+bic google-chrome
+oap
+kap
+oap
+bi discordo
+brew formulae
+brew formulae | fzf
+brew formulae | fzf
+brew casks | fzf
+fzl
+fbi
+bci
+fci
+bui
+fzl
+fbui
+fzl
+fcui
+fbi
+fbui
+navi
+navi
+navi --help
+fbi
+fbi
+nstall svn
+brew install svn
+l
+cd
+rcf
+tcf
+tcf
+l
+tcf
+\:q
+l
+l
+fbui
+fbui
+l
+l
+l
+fbui
+fbui
+w
+w
+fbi
+brew tap FelixKratz/formulae
+brew tap FelixKratz/formulae
+fbi
+brew services start sketchybar
+fbui
+brew untap FelixKratz/formulae
+brew services stop sketchybar
+kill -9 2051 
+fbui
+fbi
+l
+l
+fbi
+brew tap FelixKratz/formulae\
+
+brew install sketchybar
+l
+sketchybar --bar topmost=on\
+
+l
+cd .config
+l
+cd rizin
+l
+cd..
+l
+cd sk
+cd sketchybar
+l
+nm
+nm
+nvim
+brew install --cask sf-symbols
+brew install jq
+brew install cava
+ln -s $(which sketchybar) $(dirname $(which sketchybar))/dynamic-island-sketchybar && git clone https://github.com/crissNb/Dynamic-Island-Sketchybar.git ~/.config/dynamic-island-sketchybar
+cp ~/.config/dynamic-island-sketchybar/userconfigs/mbp2021_14.sh ~/.config/dynamic-island-sketchybar/userconfig.sh
+brew install cava
+dynamic-island-sketchybar
+brew install --cask background-music
+dynamic-island-sketchybar
+launchctl unload -F /System/Library/LaunchAgents/com.apple.OSDUIHelper.plist
+source ./path/to/icon_map_fn.sh\
+\
+icon_map "${app_name}"\
+symbol_ligature="${icon_result}"
+nm
+nvim
+nvim sketchybarrc-desktop
+l
+nvim sketchybarrc-laptop
+nvim
+l
+cd plugins
+l
+nvim weather.sh
+nvim colume.sh
+nvim front_app.sh
+l
+nvim volume.sh
+nvim clock.sh
+ll
+l
+cd..
+l
+rmr plugins
+l
+cd..
+l
+rmrf sketchybar
+l
+l
+git clone https://github.com/FelixKratz/dotfiles.git
+l
+rmrf dynamic-island-sketchybar
+l
+cd dotfiles
+l
+cd .config
+l
+mv sketchybar ./../../
+l
+cd..
+l
+cd..
+l
+sketchybar --help
+sketchybar --reload
+fbi
+bic raycast
+buic raycast
+brew uninstall --cask raycast
+bic raycast
+$ ssh ssh.chat
+$ ssh ssh.chat
+ssh
+ssh ssh.chat
+pickaxe https://example.com/projects/example/
+curl https://getmic.ro | bash
+l
+rmrf micro.tar.gz
+l
+fbi
+fbi
+brew install cargo
+fbi
+fbi
+l
+cd
+cd
+l
+l
+cd Projects
+l
+cd AdventOfCode2023
+l
+cd pkg
+l
+cd day_3/day_3.go
+l
+cd day_3
+l
+rm day_3.go
+l
+nm soln.rs
+nvim soln.rs
+nvim puzzle.input
+l
+nvim soln.rs
+l
+fbi
+brew install thunderbird
+kap
+fbui
+borders
+l
+l
+l
+l
+nvim
+nvim .config
+ls
+l
+aop
+oap
+hx
+l
+l
+nvim
+kitten ssh tux.cs.drexel.edu
+kitten ssh ss5278@tux.cs.drexel.edu
+l
+kittne
+kitten
+shcopy
+echo hello | shcopy
+echo hello | pbcopy
+hello\
+
+hello\
+
+brew install fig
+fig
+brew install contour\
+
+brew install broot
+br
+br -s
+broot
+br
+sbrc
+szpf
+l
+cd .zprofile
+nvim .zprofile
+nvim
+bic wave
+oap
+bic ghostty
+bic prompt
+flatpak install --user --from https://nightly.gnome.org/repo/appstream/org.gnome.Prompt.Devel.flatpakref
+l
+cd .config
+l
+cd..
+l
+fbci
+bic kitty
+oap
+ls
+cd Projects
+l
+cd AdventOfCode2023 
+l
+cd pkg
+l
+cd day_1/ 
+l 
+nm
+nvim
+hx
+cd
+hx
+fbi
+hz
+hx
+l
+fbi
+cd -
+l
+hx
+hx
+hx
+nv
+nvim
+l
+br
+l
+cd
+l
+br --help
+cd
+cd --help
+cd -h
+l
+tcf
+[<0;64;29Ml
+l
+l
+l
+l
+l
+ll
+l
+ll
+ja
+jq
+A
+\:q
+l
+d
+l;
+l
+capp
+cap
+kap
+kap
+kap
+fzf
+fzf --help
+fzf tree{}
+fzf {tree}
+fzf --preview 
+fzf --preview cat
+fzf --preview cat{}
+fzf --preview 'cat{}'
+fzf --preview 'cat {}'
+fzf --preview 'bat {}'
+fzf --help
+jq
+;
+l
+l
+cd bin
+l
+ln -s ~/toolchain/homebrew/bin/nvim nm
+l
+l
+cd
+l
+nm
+nm test.json
+cat test.json| jq
+jq --help
+cat test.json| jq -j
+jq --help
+cat test.json| jq -C
+jq --help
+l
+bat test.json| jq -C
+bat --help
+bat test.json| fzf
+bat test.json| fzf --preview 'jq {}'
+bat test.json| fzf --preview 'echo {} | jq'
+bat test.json| fzf --ansi --preview 'echo {} | jq'
+fzf --help
+bat test.json| fzf --ansi --preview 'echo {} | bat'
+bat test.json| fzf --ansi --preview 'echo {}'
+bat test.json| fzf --ansi --preview 'echo {} | jq'
+bat test.json| fzf --ansi --preview 'echo {} | jq'
+jq --help
+bat test.json| fzf --ansi --preview 'echo {} | jq -C'
+fzl
+bat test.json| fjq
+l
+fzl
+fcj test.json
+fcj test.json
+jq
+jq --help
+bat test.json| fzf --ansi --preview 'echo {} | jq -RC'
+bat test.json| fzf --ansi --preview 'echo {} | jq -w'
+bat test.json| fzf --ansi --preview 'echo {} | jq -r'
+bat test.json| fzf --ansi --preview 'echo {} | jq -C'
+i\
+
+tn base
+tn base
+tcf
+tcf
+tn base
+ta
+ta
+tmux
+tmux --help
+tmux
+l
+bat test.json
+fcj test.json
+l
+sd
+fzl
+oap
+kap
+ta
+tn base
+l
+tmux
+a
+\:q
+l
+d
+a sd
+\:q
+asda
+nm
+\:q
+l
+l
+tty-share --help
+ssh satwikshresth@10.0.0.205
+ssh satwikshresth@10.0.0.205
+l
+cd Downloads
+l
+cd 2020-fall\ hw\ 1/
+l
+rg name
+k
+l
+cd zl483
+rg zl483
+rg jhon
+rg zlotek
+rg zoe
+rg levine
+outlook --hepl
+microsoft-outlook
+l
+sl
+brew install sigmaos
+l
+cd..
+l
+l
+ls
+ls | fzf
+ls -1
+ls -1 | tr '\n' ';'
+brew uninstall sigmaos
+cd
+l
+ls
+ls Downloads/2020-fall\ hw\ 1/
+l
+ls Downloads/2020-fall\ hw\\
+
+l
+ls Downloads/2020-fall\ hw\ 1/\
+
+cd Downloads/2020-fall\ hw\ 1/\
+
+l
+ls -1
+ls
+ls -1
+ls -1 | tr '\n' ';'
+ls -1 | tr '\n' ';'
+ls -1 | tr '\n' '; '
+ls -1 | tr '\n' ';\s'
+ls -1 | tr '\n' ';\w'
+ls -1 | tr '\n' "; "
+ls -1 | tr '\n' "; "
+"An Nafee,Ahnaf" <aa4247@dragons.drexel.edu>; "Bansal,Akshiv" <ab3874@dragons.drexel.edu>; "Ma,Atticus" <abm329@dragons.drexel.edu>; "Clune,Abigail" <aec332@dragons.drexel.edu>; "Abid,Ashraful" <aha55@dragons.drexel.edu>; "Tran,An" <aht49@dragons.drexel.edu>; "Hessler,Alex" <ajh387@dragons.drexel.edu>; "Karim,Afridi" <akk63@dragons.drexel.edu>; "Kandallu,Amarnath" <akk69@dragons.drexel.edu>; "Senin,Andrew" <ams975@dragons.drexel.edu>; "Ude,Amarachukwu" <apu24@dragons.drexel.edu>; "Doris,Aiden" <asd95@dragons.drexel.edu>; "Parker,Blake" <bcp52@dragons.drexel.edu>; "Whildin,Brady" <bhw29@dragons.drexel.edu>; "Lee,Brent" <bkl35@dragons.drexel.edu>; "Ly,Brandon" <bl584@dragons.drexel.edu>; "Oluwatudimu,Bunmi" <bmo43@dragons.drexel.edu>; "Loeb,Benjamin" <bzl23@drexel.edu>; "Porter,Charles" <cap399@dragons.drexel.edu>; "Knight,Carter" <cbk52@dragons.drexel.edu>; "Lynch,Christopher" <cjl334@dragons.drexel.edu>; "Clifford,Christopher" <crc339@dragons.drexel.edu>; "Momah,Sophia" <csm333@dragons.drexel.edu>; "Au,Dylan" <da593@dragons.drexel.edu>; "Calucci,Dylan" <dac378@dragons.drexel.edu>; "Keiser,David" <dak345@dragons.drexel.edu>; "Martini,Daniel" <dam385@dragons.drexel.edu>; "DeBellis,David" <dcd76@dragons.drexel.edu>; "Dwomoh Sarpong,David Nana" <dd993@drexel.edu>; "McGahey,Daniel" <dem337@dragons.drexel.edu>; "Grosch,Darius" <dg868@dragons.drexel.edu>; "Lukovic,Dimitrije" <dl923@dragons.drexel.edu>; "Tercho,David" <dmt335@dragons.drexel.edu>; "Rungta,Devang" <dr846@dragons.drexel.edu>; "D'Apice,David" <drd79@dragons.drexel.edu>; "McHenry,Dillon" <dsm98@dragons.drexel.edu>; "Shi,Darian" <dys37@dragons.drexel.edu>; "Ouellette,Evelynn" <eao72@dragons.drexel.edu>; "Savoy,Eric" <ets43@dragons.drexel.edu>; "Doan,Giang" <gdd33@drexel.edu>; "Fernandez-Nunez,Guadalupe" <gf347@dragons.drexel.edu>; "Ghuzayz,Ghadah" <gg466@dragons.drexel.edu>; "Crayton,Garrett" <gkc37@dragons.drexel.edu>; "Singh,Gurleen" <gs585@dragons.drexel.edu>; "Zheng,Guai" <gz64@dragons.drexel.edu>; "Amin,Het" <ha635@dragons.drexel.edu>; "Dang,Henry" <hd349@dragons.drexel.edu>; "Ly,Heang" <hl698@dragons.drexel.edu>; "Vairagade,Hruday" <hv59@dragons.drexel.edu>; "Tucker,Hana" <hvt26@dragons.drexel.edu>; "Elsaid,Ibrahim" <ibe23@dragons.drexel.edu>; "Hernandez,Isaiah" <ijh25@dragons.drexel.edu>; "Patel,Jainil" <jbp85@dragons.drexel.edu>; "Dixon,Jessica" <jd3323@dragons.drexel.edu>; "Dickinson,Jonathan" <jd3499@drexel.edu>; "Au,Jakob" <jda92@drexel.edu>; "Li,Jiongheng" <jl3984@dragons.drexel.edu>; "Shellenberger,Jeanna" <jls825@dragons.drexel.edu>; "Musto,Jonah" <jm3832@dragons.drexel.edu>; "Durkin,Jarod" <jmd646@dragons.drexel.edu>; "Smith-Sanders,Javion" <jms973@dragons.drexel.edu>; "Eatroff,Jonathan" <jre75@drexel.edu>; "Singh,Jashanpreet" <js4683@dragons.drexel.edu>; "Kenney,John" <jtk87@drexel.edu>; "Moore,Justin" <jtm363@dragons.drexel.edu>; "Bonnes,John" <jwb326@dragons.drexel.edu>; "Yu,Jacy" <jy529@dragons.drexel.edu>; "Yang,Jackie" <jy532@dragons.drexel.edu>; "Yin,Justin" <jy533@dragons.drexel.edu>; "Zheng,Jacky" <jz584@dragons.drexel.edu>; "Cheng,Kevin" <kc3294@dragons.drexel.edu>; "Galic,Katarina" <kg896@dragons.drexel.edu>; "Kayastha,Kshitij" <kk985@drexel.edu>; "Wong,Kevin" <kmw396@dragons.drexel.edu>; "de Leon,Kiara Isabel" <kpd44@dragons.drexel.edu>; "Sai,Kiruthik" <ks3738@dragons.drexel.edu>; "Cook,Kyle" <ktc53@dragons.drexel.edu>; "Wu,Kevin" <kw875@dragons.drexel.edu>; "Ossenfort,Liam" <lao52@dragons.drexel.edu>; "Johnson,Lia" <lej42@dragons.drexel.edu>; "Do,Linh" <lmd386@dragons.drexel.edu>; "Abbas,Manal" <maa458@dragons.drexel.edu>; "Ansari,Mubasher" <maa459@drexel.edu>; "Prucnal,Mark" <mdp83@dragons.drexel.edu>; "Imai,Miyo" <mei28@dragons.drexel.edu>; "Kleiner,Matthew" <mik37@dragons.drexel.edu>; "Manley,Michael" <mm4386@dragons.drexel.edu>; "Sahal,Mohammad" <ms4534@dragons.drexel.edu>; "Kirchheimer,Matthew" <msk356@dragons.drexel.edu>; "Bright,Madeline" <mtb345@dragons.drexel.edu>; "Pham,Minh" <mvp57@drexel.edu>; "Albaki,Nael" <na576@dragons.drexel.edu>; "Offor,Nnesochi" <nco34@dragons.drexel.edu>; "Parakh,Nikhil" <np657@dragons.drexel.edu>; "Ung,Nathan" <nu44@drexel.edu>; "Okotete,Ogheneteme" <oo65@dragons.drexel.edu>; "Han,Peter" <ph429@dragons.drexel.edu>; "Kline-Sanfosso,Phoenix" <pk558@drexel.edu>; "Jones,Philip" <pmj44@dragons.drexel.edu>; "Bui,Phuong" <ptb43@dragons.drexel.edu>; "Bui,Quang" <qb37@dragons.drexel.edu>; "Luong,Quang" <qdl24@dragons.drexel.edu>; "Burkins,Ryan" <rb946@dragons.drexel.edu>; "Scott,Richard" <rds95@dragons.drexel.edu>; "Jensen,Rachel" <rj523@drexel.edu>; "Maio,Riccardo" <rm3236@dragons.drexel.edu>; "Babu,Ritty" <rmb355@dragons.drexel.edu>; "Fleming,Reed" <rmf323@dragons.drexel.edu>; "Patel,Rishi" <rmp333@drexel.edu>; "Shrestha,Rayan" <rns68@dragons.drexel.edu>; "Fahnestock,Ryan" <rsf54@dragons.drexel.edu>; "Hazaveh,S Katayoun" <sh3277@dragons.drexel.edu>; "Bang,Su" <sjb443@dragons.drexel.edu>; "Li,Songheng" <sl3499@dragons.drexel.edu>; "Meda,Sai Satwik Reddy" <sm3963@dragons.drexel.edu>; "Arnone,Stefano" <sma429@dragons.drexel.edu>; "Tuladhar,Shree Raj" <st828@drexel.edu>; "Tran,Sammy" <st974@dragons.drexel.edu>; "Yang,Sandy" <sy556@dragons.drexel.edu>; "Card,Thomas" <tjc366@drexel.edu>; "Holub,Tristan" <tjh347@dragons.drexel.edu>; "Hoang,Trang" <tmh327@dragons.drexel.edu>; "Le,Tyler" <tml95@dragons.drexel.edu>; "Usmani,Umair" <uau25@dragons.drexel.edu>; "Mortensen,Victoria" <vgm26@dragons.drexel.edu>; "Lroy,Vegan" <vl357@dragons.drexel.edu>; "Miller,Wesley" <wcm48@dragons.drexel.edu>; "Puppo,William" <wjp48@dragons.drexel.edu>; "Lu,William" <wl452@dragons.drexel.edu>; "Fairbrother,Wayne" <wpf27@dragons.drexel.edu>; "Tan,Wenhan" <wt99@dragons.drexel.edu>; "Yang,Yi" <yy497@dragons.drexel.edu>; "McConnell,Zachary" <zbm27@dragons.drexel.edu>; "Levine,Zoe" <zl483@dragons.drexel.edu> 
+cd..
+l
+cd
+l
+cd Projects
+l
+mkdir JANISWORK
+l
+cd JANISWORK
+l
+nm fall-2020-data
+bat fall-2020-data
+bat fall-2020-data
+cd -
+cd 
+cd Downloads
+l
+mv 2020-fall\ hw\ 1 fall-2020
+l
+cd fall-2020/
+l
+rg An Nafee,Ahnaf
+rg Ahnaf
+rg An
+rg Nafee
+rg --help
+rg {An,Nafee,Ahnaf}
+rg {An,Nafee,Ahnaf} .
+rg . {An,Nafee,Ahnaf}
+rg {An,Nafee,Ahnaf} .
+cp ../../Projects/JANISWORK/fall-2020-data .
+l
+nm 
+rg } .\
+
+rg} .\
+\
+
+nm 
+Oluwatudimu,Bunmi \
+
+rg {Oluwatudimu,Bunmi} .\
+
+rg {"Oluwatudimu","Bunmi"} .\
+
+rg -i name .\
+
+rg {"Oluwatudimu","Bunmi"} .\
+
+rg -i name: .\
+
+sd\
+
+fzl
+cd..
+l
+cd..
+;
+cd
+cd -
+cd Library/Containers/com.apple.iCal/Data/Downloads/fall-2020/
+l
+cd
+l
+cd Downloads
+l
+cd fall-2020
+l;
+rg "Oluwatudimu|Bunmi" .\
+
+l
+cat fall-2020-data
+cat fall-2020-data| tr "," "|"
+cat fall-2020-data| tr "," "|" | tr "\n" "|"
+cat fall-2020-data| tr "," "|" | tr "\n" "|" | tr " " "|"
+cat fall-2020-data| tr "," "|" | tr "\n" "|" | tr " " "|" 
+cat fall-2020-data| tr "," "|" | tr "\n" "|" | tr " " "|" | tr "||" "|"
+cat fall-2020-data| tr "," "|" | tr "\n" "|" | tr " " "|" | tr "| |" "|"
+cat fall-2020-data| tr "," "|" | tr "\n" "|" | tr " " "|" | tr "||" "|"
+cat fall-2020-data| tr "," "|" | tr "\n" "|" | tr " " "|" | tr '||' "|"
+cat fall-2020-data| tr "," "|" | tr "\n" "|" | tr " " "|" | tr '||' '|'
+cat fall-2020-data| tr "," "|" | tr "\n" "|"
+cat fall-2020-data| tr "," "|" | tr -d "\n" "|"
+cat fall-2020-data| tr "," "|" | tr "\n" "|" | tr -d
+cat fall-2020-data| tr "," "|" | tr "\n" "|" | tr -d '[:space:]'
+cat fall-2020-data| tr "," "|" | tr "\n" "|"
+cat fall-2020-data| tr "," "|" | tr "\n" "|" | tr -d '[:space:]'
+cat fall-2020-data| tr "," "|" | tr "\n" "|" | tr -d '[:space:]'
+rg "AnNafee|Ahnaf|Bansal|Akshiv|Ma|Atticus|Clune|Abigail|Abid|Ashraful|Tran|An|Hessler|Alex|Karim|Afridi|Kandallu|Amarnath|Senin|Andrew|Ude|Amarachukwu|Doris|Aiden|Parker|Blake|Whildin|Brady|Lee|Brent|Ly|Brandon|Oluwatudimu|Bunmi|Loeb|Benjamin|Porter|Charles|Knight|Carter|Lynch|Christopher|Clifford|Christopher|Momah|Sophia|Au|Dylan|Calucci|Dylan|Keiser|David|Martini|Daniel|DeBellis|David|DwomohSarpong|DavidNana|McGahey|Daniel|Grosch|Darius|Lukovic|Dimitrije|Tercho|David|Rungta|Devang|D'Apice|David|McHenry|Dillon|Shi|Darian|Ouellette|Evelynn|Savoy|Eric|Doan|Giang|Fernandez-Nunez|Guadalupe|Ghuzayz|Ghadah|Crayton|Garrett|Singh|Gurleen|Zheng|Guai|Amin|Het|Dang|Henry|Ly|Heang|Vairagade|Hruday|Tucker|Hana|Elsaid|Ibrahim|Hernandez|Isaiah|Patel|Jainil|Dixon|Jessica|Dickinson|Jonathan|Au|Jakob|Li|Jiongheng|Shellenberger|Jeanna|Musto|Jonah|Durkin|Jarod|Smith-Sanders|Javion|Eatroff|Jonathan|Singh|Jashanpreet|Kenney|John|Moore|Justin|Bonnes|John|Yu|Jacy|Yang|Jackie|Yin|Justin|Zheng|Jacky|Cheng|Kevin|Galic|Katarina|Kayastha|Kshitij|Wong|Kevin|deLeon|KiaraIsabel|Sai|Kiruthik|Cook|Kyle|Wu|Kevin|Ossenfort|Liam|Johnson|Lia|Do|Linh|Abbas|Manal|Ansari|Mubasher|Prucnal|Mark|Imai|Miyo|Kleiner|Matthew|Manley|Michael|Sahal|Mohammad|Kirchheimer|Matthew|Bright|Madeline|Pham|Minh|Albaki|Nael|Offor|Nnesochi|Parakh|Nikhil|Ung|Nathan|Okotete|Ogheneteme|Han|Peter|Kline-Sanfosso|Phoenix|Jones|Philip|Bui|Phuong|Bui|Quang|Luong|Quang|Burkins|Ryan|Scott|Richard|Jensen|Rachel|Maio|Riccardo|Babu|Ritty|Fleming|Reed|Patel|Rishi|Shrestha|Rayan|Fahnestock|Ryan|Hazaveh|SKatayoun|Bang|Su|Li|Songheng|Meda|SaiSatwikReddy|Arnone|Stefano|Tuladhar|ShreeRaj|Tran|Sammy|Yang|Sandy|Card|Thomas|Holub|Tristan|Hoang|Trang|Le|Tyler|Usmani|Umair|Mortensen|Victoria|Lroy|Vegan|Miller|Wesley|Puppo|William|Lu|William|Fairbrother|Wayne|Tan|Wenhan|Yang|Yi|McConnell|Zachary|Levine|Zoe" .
+cat fall-2020-data| tr "," "|" | tr "\n" "|"
+rg "An Nafee|Ahnaf |Bansal|Akshiv |Ma|Atticus |Clune|Abigail |Abid|Ashraful |Tran|An |Hessler|Alex |Karim|Afridi |Kandallu|Amarnath |Senin|Andrew |Ude|Amarachukwu |Doris|Aiden |Parker|Blake |Whildin|Brady |Lee|Brent |Ly|Brandon |Oluwatudimu|Bunmi |Loeb|Benjamin |Porter|Charles |Knight|Carter |Lynch|Christopher |Clifford|Christopher |Momah|Sophia |Au|Dylan |Calucci|Dylan |Keiser|David |Martini|Daniel |DeBellis|David |Dwomoh Sarpong|David Nana |McGahey|Daniel |Grosch|Darius |Lukovic|Dimitrije |Tercho|David |Rungta|Devang |D'Apice|David |McHenry|Dillon |Shi|Darian |Ouellette|Evelynn |Savoy|Eric |Doan|Giang |Fernandez-Nunez|Guadalupe |Ghuzayz|Ghadah |Crayton|Garrett |Singh|Gurleen |Zheng|Guai |Amin|Het |Dang|Henry |Ly|Heang |Vairagade|Hruday |Tucker|Hana |Elsaid|Ibrahim |Hernandez|Isaiah |Patel|Jainil |Dixon|Jessica |Dickinson|Jonathan |Au|Jakob |Li|Jiongheng |Shellenberger|Jeanna |Musto|Jonah |Durkin|Jarod |Smith-Sanders|Javion |Eatroff|Jonathan |Singh|Jashanpreet |Kenney|John |Moore|Justin |Bonnes|John |Yu|Jacy |Yang|Jackie |Yin|Justin |Zheng|Jacky |Cheng|Kevin |Galic|Katarina |Kayastha|Kshitij |Wong|Kevin |de Leon|Kiara Isabel |Sai|Kiruthik |Cook|Kyle |Wu|Kevin |Ossenfort|Liam |Johnson|Lia |Do|Linh |Abbas|Manal |Ansari|Mubasher |Prucnal|Mark |Imai|Miyo |Kleiner|Matthew |Manley|Michael |Sahal|Mohammad |Kirchheimer|Matthew |Bright|Madeline |Pham|Minh |Albaki|Nael |Offor|Nnesochi |Parakh|Nikhil |Ung|Nathan |Okotete|Ogheneteme |Han|Peter |Kline-Sanfosso|Phoenix |Jones|Philip |Bui|Phuong |Bui|Quang |Luong|Quang |Burkins|Ryan |Scott|Richard |Jensen|Rachel |Maio|Riccardo |Babu|Ritty |Fleming|Reed |Patel|Rishi |Shrestha|Rayan |Fahnestock|Ryan |Hazaveh|S Katayoun |Bang|Su |Li|Songheng |Meda|Sai Satwik Reddy |Arnone|Stefano |Tuladhar|Shree Raj |Tran|Sammy |Yang|Sandy |Card|Thomas |Holub|Tristan |Hoang|Trang |Le|Tyler |Usmani|Umair |Mortensen|Victoria |Lroy|Vegan |Miller|Wesley |Puppo|William |Lu|William |Fairbrother|Wayne |Tan|Wenhan |Yang|Yi |McConnell|Zachary |Levine|Zoe " .
+cat fall-2020-data| tr "," "|" | tr "\n" "|" | tr "Ma" "Ma "
+cat fall-2020-data| tr "," "|" | tr "\n" "|" | tr "Ma" "Ma " | xargs -I {@} rg "{@}" .
+cat fall-2020-data| tr "," "|" | tr "\n" "|" | tr "Ma" "Ma " | xargs -I {@} rg '{@}' .
+cat fall-2020-data| tr "," "|" | tr "\n" "|" | tr "Ma" "Ma " | xargs -I@ rg '{@}' .
+cat fall-2020-data| tr "," "|" | tr "\n" "|" | tr "Ma" "Ma " | xargs -t -I@
+cat fall-2020-data| tr "," "|" | tr "\n" "|" | tr "Ma" "Ma " | xargs -t -I {@}
+"rg $(cat fall-2020-data| tr "," "|" | tr "\n" "|" | tr "Ma" "Ma ") ."
+cat fall-2020-data| tr "," "|" | tr "\n" "|" | tr "Ma" "Ma " | xargs -t -I {@}
+rg "An Nafee|Ahnaf |Bansal|Akshiv |Ma|Atticus |Clune|Abigail |Abid|Ashraful |Tran|An |Hessler|Alex |Karim|Afridi |Kandallu|Amarnath |Senin|Andrew |Ude|Amarachukwu |Doris|Aiden |Parker|Blake |Whildin|Brady |Lee|Brent |Ly|Brandon |Oluwatudimu|Bunmi |Loeb|Benjamin |Porter|Charles |Knight|Carter |Lynch|Christopher |Clifford|Christopher |Momah|Sophia |Au|Dylan |Calucci|Dylan |Keiser|David |Martini|Daniel |DeBellis|David |Dwomoh Sarpong|David Nana |McGahey|Daniel |Grosch|Darius |Lukovic|Dimitrije |Tercho|David |Rungta|Devang |D'Apice|David |McHenry|Dillon |Shi|Darian |Ouellette|Evelynn |Savoy|Eric |Doan|Giang |Fernandez-Nunez|Guadalupe |Ghuzayz|Ghadah |Crayton|Garrett |Singh|Gurleen |Zheng|Guai |Amin|Het |Dang|Henry |Ly|Heang |Vairagade|Hruday |Tucker|Hana |Elsaid|Ibrahim |Hernandez|Isaiah |Patel|Jainil |Dixon|Jessica |Dickinson|Jonathan |Au|Jakob |Li|Jiongheng |Shellenberger|Jeanna |Musto|Jonah |Durkin|Jarod |Smith-Sanders|Javion |Eatroff|Jonathan |Singh|Jashanpreet |Kenney|John |Moore|Justin |Bonnes|John |Yu|Jacy |Yang|Jackie |Yin|Justin |Zheng|Jacky |Cheng|Kevin |Galic|Katarina |Kayastha|Kshitij |Wong|Kevin |de Leon|Kiara Isabel |Sai|Kiruthik |Cook|Kyle |Wu|Kevin |Ossenfort|Liam |Johnson|Lia |Do|Linh |Abbas|Manal |Ansari|Mubasher |Prucnal|Mark |Imai|Miyo |Kleiner|Matthew |Manley|Michael |Sahal|Mohammad |Kirchheimer|Matthew |Bright|Madeline |Pham|Minh |Albaki|Nael |Offor|Nnesochi |Parakh|Nikhil |Ung|Nathan |Okotete|Ogheneteme |Han|Peter |Kline-Sanfosso|Phoenix |Jones|Philip |Bui|Phuong |Bui|Quang |Luong|Quang |Burkins|Ryan |Scott|Richard |Jensen|Rachel |Maio|Riccardo |Babu|Ritty |Fleming|Reed |Patel|Rishi |Shrestha|Rayan |Fahnestock|Ryan |Hazaveh|S Katayoun |Bang|Su |Li|Songheng |Meda|Sai Satwik Reddy |Arnone|Stefano |Tuladhar|Shree Raj |Tran|Sammy |Yang|Sandy |Card|Thomas |Holub|Tristan |Hoang|Trang |Le|Tyler |Usmani|Umair |Mortensen|Victoria |Lroy|Vegan |Miller|Wesley |Puppo|William |Lu|William |Fairbrother|Wayne |Tan|Wenhan |Yang|Yi |McConnell|Zachary |Levine|Zoe" .
+rg "An Nafee|Ahnaf |Bansal|Akshiv |Ma|Atticus |Clune|Abigail |Abid|Ashraful |Tran|An |Hessler|Alex |Karim|Afridi |Kandallu|Amarnath |Senin|Andrew |Ude|Amarachukwu |Doris|Aiden |Parker|Blake |Whildin|Brady |Lee|Brent |Ly|Brandon |Oluwatudimu|Bunmi |Loeb|Benjamin |Porter|Charles |Knight|Carter |Lynch|Christopher |Clifford|Christopher |Momah|Sophia |Au|Dylan |Calucci|Dylan |Keiser|David |Martini|Daniel |DeBellis|David |Dwomoh Sarpong|David|Nana|McGahey|Daniel |Grosch|Darius |Lukovic|Dimitrije |Tercho|David |Rungta|Devang |D'Apice|David |McHenry|Dillon |Shi|Darian |Ouellette|Evelynn |Savoy|Eric |Doan|Giang |Fernandez-Nunez|Guadalupe |Ghuzayz|Ghadah |Crayton|Garrett |Singh|Gurleen |Zheng|Guai |Amin|Het|Dang|Henry|Heang |Vairagade|Hruday |Tucker|Hana |Elsaid|Ibrahim |Hernandez|Isaiah |Patel|Jainil |Dixon|Jessica |Dickinson|Jonathan|Jakob|Jiongheng |Shellenberger|Jeanna |Musto|Jonah |Durkin|Jarod |Smith-Sanders|Javion |Eatroff|Jonathan |Singh|Jashanpreet |Kenney|John |Moore|Justin |Bonnes|John |Yu|Jacy |Yang|Jackie |Yin|Justin |Zheng|Jacky |Cheng|Kevin |Galic|Katarina |Kayastha|Kshitij |Wong|Kevin |de Leon|Kiara Isabel |Sai|Kiruthik |Cook|Kyle |Wu|Kevin |Ossenfort|Liam |Johnson|Lia |Do|Linh |Abbas|Manal |Ansari|Mubasher |Prucnal|Mark |Imai|Miyo |Kleiner|Matthew |Manley|Michael |Sahal|Mohammad |Kirchheimer|Matthew |Bright|Madeline |Pham|Minh |Albaki|Nael |Offor|Nnesochi |Parakh|Nikhil |Ung|Nathan |Okotete|Ogheneteme |Han|Peter |Kline-Sanfosso|Phoenix |Jones|Philip |Bui|Phuong |Bui|Quang |Luong|Quang |Burkins|Ryan |Scott|Richard |Jensen|Rachel |Maio|Riccardo |Babu|Ritty|Fleming|Reed |Patel|Rishi |Shrestha|Rayan |Fahnestock|Ryan |Hazaveh|Katayoun|Bang|Songheng|Meda|Sai|Satwik|Reddy|Arnone|Stefano |Tuladhar|Shree Raj |Tran|Sammy |Yang|Sandy |Card|Thomas |Holub|Tristan |Hoang|Trang |Le|Tyler |Usmani|Umair |Mortensen|Victoria |Lroy|Vegan |Miller|Wesley |Puppo|William |Lu|William |Fairbrother|Wayne |Tan|Wenhan |Yang|Yi |McConnell|Zachary |Levine|Zoe" .
+rg "An Nafee|Ahnaf |Bansal|Akshiv |Ma|Atticus |Clune|Abigail |Abid|Ashraful |Tran|An |Hessler|Alex |Karim|Afridi |Kandallu|Amarnath |Senin|Andrew |Ude|Amarachukwu |Doris|Aiden |Parker|Blake |Whildin|Brady |Lee|Brent |Ly|Brandon |Oluwatudimu|Bunmi |Loeb|Benjamin |Porter|Charles |Knight|Carter |Lynch|Christopher |Clifford|Christopher |Momah|Sophia |Au|Dylan |Calucci|Dylan |Keiser|David |Martini|Daniel |DeBellis|David |Dwomoh Sarpong|David|Nana|McGahey|Daniel |Grosch|Darius |Lukovic|Dimitrije |Tercho|David |Rungta|Devang |D'Apice|David |McHenry|Dillon |Shi|Darian |Ouellette|Evelynn |Savoy|Eric |Doan|Giang |Fernandez-Nunez|Guadalupe |Ghuzayz|Ghadah |Crayton|Garrett |Singh|Gurleen |Zheng|Guai |Amin|Het|Dang|Henry|Heang |Vairagade|Hruday |Tucker|Hana |Elsaid|Ibrahim |Hernandez|Isaiah |Patel|Jainil |Dixon|Jessica |Dickinson|Jonathan|Jakob|Jiongheng |Shellenberger|Jeanna |Musto|Jonah |Durkin|Jarod |Smith-Sanders|Javion |Eatroff|Jonathan |Singh|Jashanpreet |Kenney|John |Moore|Justin |Bonnes|John |Yu|Jacy |Yang|Jackie |Yin|Justin |Zheng|Jacky |Cheng|Kevin |Galic|Katarina |Kayastha|Kshitij |Wong|Kevin |de Leon|Kiara Isabel |Sai|Kiruthik |Cook|Kyle |Wu|Kevin |Ossenfort|Liam |Johnson|Lia |Do|Linh |Abbas|Manal |Ansari|Mubasher |Prucnal|Mark |Imai|Miyo |Kleiner|Matthew |Manley|Michael |Sahal|Mohammad |Kirchheimer|Matthew |Bright|Madeline |Pham|Minh |Albaki|Nael |Offor|Nnesochi |Parakh|Nikhil |Ung|Nathan |Okotete|Ogheneteme |Han|Peter |Kline-Sanfosso|Phoenix |Jones|Philip |Bui|Phuong |Bui|Quang |Luong|Quang |Burkins|Ryan |Scott|Richard |Jensen|Rachel |Maio|Riccardo |Babu|Ritty|Fleming|Reed |Patel|Rishi |Shrestha|Rayan |Fahnestock|Ryan |Hazaveh|Katayoun|Bang|Songheng|Meda|Sai|Satwik|Reddy|Arnone|Stefano |Tuladhar|Shree Raj |Tran|Sammy |Yang|Sandy |Card|Thomas |Holub|Tristan |Hoang|Trang |Le|Tyler |Usmani|Umair |Mortensen|Victoria |Lroy|Vegan |Miller|Wesley |Puppo|William |Lu|William |Fairbrother|Wayne |Tan|Wenhan |Yang|Yi |McConnell|Zachary |Levine|Zoe" .
+tcf
+l
+l
+tcf
+l
+
+pbcopy
+pbcopy --help
+pb
+xclip -selection clipboard -o
+pbpaste
+raycast --help
+raycast
+brew ray -h
+ray -h
+npx ray -h
+l
+l
+l
+l
+l
+l
+brew install spotify
+oap
+oap
+l
+l
+rm .vscode-oss
+rmrf .vscode-oss
+sv
+vs
+code
+codium
+brew install tty-share
+l
+tty-share
+nm
+nvim
+run
+ls
+l
+l
+k
+l
+Lq
+\:q
+l
+'l\
+ll\
+\
+l\
+'
+l
+ll
+ls
+l
+tcf
+tmux
+tcf
+tmux
+tcf
+l
+tmux
+tn base
+tcf
+tn base
+tcf
+tn base
+tn base
+tmux kill-server
+l
+tmux
+l
+tcf
+tmux
+tmux
+ta
+l
+zal
+cd .config
+l
+nm starship.toml
+;
+fg
+l
+nvim
+cd
+cd Downloads/fall-2020
+l
+nm
+nm
+l
+l
+cd
+kap
+nm
+nm
+l
+m
+nm
+kap
+kap
+kap
+kap
+kap
+kap
+kap
+oap
+kap
+nm
+nvim --no-config
+nvim --help
+nvim --noplugin
+nvim
+nm
+nm
+nm
+brew instakk
+brew install onyx
+brew uninstall onyx 
+cd
+cd
+cd
+ls
+l
+l
+l
+lll
+ll
+ll
+lsl
+ls
+l
+cd pr
+dfs  
+cd
+cd
+ls
+ls
+l
+ls
+~
+cd ~ 
+ls
+l
+cd Projects
+ls
+cd ja  
+cd JANISWORK/fall-2020-data AdventOfCode2023
+l
+cd JANISWORK/fall-2020-data
+l
+cd
+cd Projects/JANISWORK
+l
+nm fall-2020-data
+nm
+>>
+hjj
+ta merics
+tn metrics
+ls
+l
+ls
+l
+
+l
+nm
+l
+ll
+nm janis.py
+kap
+kap
+ls
+l
+ls
+..
+..
+cd ..
+l
+cd..
+l
+cd .config
+l
+svim
+cd
+cd -
+l
+ccccc
+git clone https://github.com/ChristianChiarulli/nvim.git
+git clone https://github.com/ChristianChiarulli/nvim.git nvim.bak
+l
+cd nvim.bak
+l
+cd ..
+l
+cd nvim
+l
+cd lua
+l
+cd lua
+l
+cd user
+l
+cp ./../../../nvim.bak
+cp -a ./../../../nvim.bak/lua/user/extras extras
+l
+cd..
+l
+cd..
+l
+nm
+l
+nm
+nm
+nm
+l
+cd..
+..
+..
+l
+cd..
+l
+zrc
+zal
+brew install fvim
+fvim
+brew uninstall fvim
+brew install gvim
+brew install gvim
+brew install gnvim
+brew install goneovim
+brew uninstall goneovim
+brew install gnvim
+brew install nvy
+brew install vimr
+brew uninstall vimr
+evim
+vim
+brew uninstall onivim
+brew install onivim
+brew install onivim2
+brew install helix
+hx
+;
+l
+nm
+brew install --cask goneovim
+l
+mkdir classes
+l
+cd classes
+l
+mkdir Theater
+l
+nm Theater
+l
+l
+cd Theater
+l
+nm
+oap
+kap
+a
+oap
+smb ss5278@tux.cs.drexel.edu
+nfs ss5278@tux.cs.drexel.edu
+brew install smb
+sudo sshfs -o allow_other,default_permissions ss5278@tux.cs.drexel.edu:~/ /mnt/tux
+sshfs
+sshfs
+brew install sshfs
+cd .
+l
+cd /
+l
+cd Volumes
+l
+cd,,
+k
+l
+cd,,
+k
+cd..
+l
+cd
+tree -d 2
+brew cask install osxfuse           # installs osxfuse\
+brew install homebrew/fuse/sshfs    # installs sshfs
+brew install osxfuse
+brew install macfuse
+sudo macfuse
+macfuse
+l
+sudo brew install macfuse
+brew install macfuse
+macfuse
+brew cask install osxfuse           # installs osxfuse\
+brew install homebrew/fuse/sshfs    # installs sshfs
+brew install sshfs
+macFUSE
+sshfs
+sshfs
+/Volumes/macFUSE/.engine_install ; exit;

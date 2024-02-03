@@ -1,0 +1,82 @@
+
+#Editor stuff
+alias nm='nvim'
+
+#brew stuff
+alias  bi='brew install'
+alias  bic='brew install --cask'
+alias  bu='brew uninstall'
+
+#cd stuff
+alias  cd..='cd ..'
+alias  cd...='cd ../..'
+alias  reset_yabai='rm /tmp/yabai* && yabai --start-service'
+
+
+#neovim
+alias nfd='nvim -c "call FuzzyCurWorkDir()" '
+
+#rm stuff
+alias rmr='rm -r'
+alias rmrf='rm -rf'
+
+#l stuff
+alias  l='ls -lah'
+alias  la='ls -lAh'
+alias  ll='ls -lh'
+alias  lll='ls -ltr'
+alias  ls='ls -G'
+alias  lsa='ls -lah'
+
+# general use
+alias ls='eza --hyperlink'
+alias l='eza -labF --hyperlink --git --icons'
+alias ll='eza -lbGF --git'
+alias llm='eza -lbGd --git --sort=modified'
+alias la='eza -lbhHigUmuSa --time-style=long-iso --git --color-scale'
+alias lx='eza -lbhHigUmuSa@ --time-style=long-iso --git --color-scale'
+
+# specialty views
+alias lS='exa -1'
+alias lt='exa --tree --level=2'
+
+#make stuff
+alias  md='mkdir -p'
+#remove stuff
+alias  rd=rmdir
+alias  rmf='rm -rf'
+
+alias  run-help=man
+#source stuff
+alias  szal='source ~/.zsh_alias'
+alias  szp='source ~/.zprofile'
+alias  szrc='source ~/.zshrc'
+alias  sfzl='source ~/.fzf.zsh'
+
+alias  tcf='nvim ~/.tmux.conf '
+alias  tn='tmux new -n'
+alias  zal='$EDITOR ~/.zsh_alias && szal'
+alias  zrc='$EDITOR ~/.zshrc && szrc'
+alias  zpf='$EDITOR ~/.zprofile && szp'
+alias  fzl='$EDITOR ~/.fzf.zsh && sfzl'
+
+#nvim stuff
+alias ncf='cd ~/.config/nvim && $EDITOR && cd -'
+
+#Macos stuff
+kill_application(){
+  command osascript -e 'tell application "System Events" to get name of (processes where background only is false)' | tr "," '\n' | tr -d ' ' | fzf | xargs -I {} osascript -e 'quit app "{}.app"'
+}
+
+switch_application(){
+  command osascript -e 'tell application "System Events" to get name of (processes where background only is false)' | tr "," '\n' | tr -d ' ' | fzf | xargs -I {} osascript -e 'tell app "{}" to activate'
+}
+
+open_application(){
+  command fd ".app" /Applications -d 2 | xargs -I {} basename "{}" | fzf | xargs -I {} open "/Applications/{}"
+}
+alias kap='kill_application'
+alias sap='switch_application'
+alias oap='open_application'
+
+alias ccnv='rmrf ~/.cache/nvim'
