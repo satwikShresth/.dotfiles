@@ -54,16 +54,16 @@ alias  rmf='rm -rf'
 
 alias  run-help=man
 #source stuff
-alias  szal='source ~/.zsh_alias'
-alias  szp='source ~/.zprofile'
-alias  szrc='source ~/.zshrc'
+alias  sbal='source ~/.zsh_alias'
+alias  sbp='source ~/.zprofile'
+alias  sbrc='source ~/.zshrc'
 alias  sfzl='source ~/.fzf.zsh'
 
 alias  tcf='nvim ~/.tmux.conf '
 alias  tn='tmux new -n'
-alias  zal='$EDITOR ~/.zsh_alias && szal'
-alias  zrc='$EDITOR ~/.zshrc && szrc'
-alias  zpf='$EDITOR ~/.zprofile && szp'
+alias  bal='$EDITOR ~/.zsh_alias && sbal'
+alias  brc='$EDITOR ~/.zshrc && sbrc'
+alias  bpf='$EDITOR ~/.zprofile && sbp'
 alias  fzl='$EDITOR ~/.fzf.zsh && sfzl'
 
 #nvim stuff
