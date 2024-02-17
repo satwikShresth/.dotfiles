@@ -1,4 +1,4 @@
-# Setup fzf
+# Setup fmux
 # ---------
 if [[ ! "$PATH" == */Users/satwikshresth/toolchain/homebrew/opt/fzf/bin* ]]; then
   PATH="${PATH:+${PATH}:}/Users/satwikshresth/toolchain/homebrew/opt/fzf/bin"
@@ -12,7 +12,9 @@ source "/Users/satwikshresth/toolchain/homebrew/opt/fzf/shell/completion.zsh"
 # ------------
 source "/Users/satwikshresth/toolchain/homebrew/opt/fzf/shell/key-bindings.zsh"
 
-export FZF_DEFAULT_OPTS='--height 40% --layout=reverse --border'
+export FZF_DEFAULT_OPTS='--height 40% --layout=reverse --border --ansi'
+
+export FZF_DEFAULT_COMMAND='fd --type f --strip-cwd-prefix'
 
 export FZF_COMPLETION_TRIGGER='?'
 
@@ -21,15 +23,15 @@ _fzf_comprun() {
   shift
 
   case "$command" in
-    cd)           fzf "$@" --preview 'tree -C {} | head -200' ;;
-    nvim)         fzf --preview 'bat --style=numbers --color=always --line-range :500 {}';;
-    *)            fzf "$@" ;;
+    cd)           fmux "$@" --preview 'tree -C {} | head -200' ;;
+    nvim)         fmux --preview 'bat --style=numbers --color=always --line-range :500 {}';;
+    *)            fmux "$@" ;;
   esac
 }
 
 sshf(){
   hosts=$(grep "^Host " ~/.ssh/config | awk '{print $2}' | grep -v "*" | grep -v "*$")
-  selected_host=$(echo "$hosts" | fzf --height=50% --reverse --prompt="SSH into: ")
+  selected_host=$(echo "$hosts" | fmux --height=50% --reverse --prompt="SSH into: ")
   if [ -n "$selected_host" ] 
   then 
     ssh "$selected_host" 
@@ -37,7 +39,7 @@ sshf(){
 }
 
 function fuzzy_brew_install() {
-    local inst=$(brew formulae | fzf --query="$1" -m --preview $FB_FORMULA_PREVIEW --bind $FB_FORMULA_BIND)
+    local inst=$(brew formulae | fmux --query="$1" -m --preview $FB_FORMULA_PREVIEW --bind $FB_FORMULA_BIND)
 
     if [[ $inst ]]; then
         for prog in $(echo $inst); do; brew install $prog; done;
@@ -45,7 +47,7 @@ function fuzzy_brew_install() {
 }
 
 function fuzzy_brew_uninstall() {
-    local uninst=$(brew leaves | fzf --query="$1" -m --preview $FB_FORMULA_PREVIEW --bind $FB_FORMULA_BIND)
+    local uninst=$(brew leaves | fmux --query="$1" -m --preview $FB_FORMULA_PREVIEW --bind $FB_FORMULA_BIND)
 
     if [[ $uninst ]]; then
         for prog in $(echo $uninst);
@@ -54,7 +56,7 @@ function fuzzy_brew_uninstall() {
 }
 
 function fuzzy_cask_install() {
-    local inst=$(brew casks | fzf --query="$1" -m --preview $FB_CASK_PREVIEW --bind $FB_CASK_BIND)
+    local inst=$(brew casks | fmux --query="$1" -m --preview $FB_CASK_PREVIEW --bind $FB_CASK_BIND)
 
     if [[ $inst ]]; then
         for prog in $(echo $inst); do; brew install --cask $prog; done;
@@ -62,7 +64,7 @@ function fuzzy_cask_install() {
 }
 
 function fuzzy_cask_uninstall() {
-    local inst=$(brew list --cask | fzf --query="$1" -m --preview $FB_CASK_PREVIEW --bind $FB_CASK_BIND)
+    local inst=$(brew list --cask | fmux --query="$1" -m --preview $FB_CASK_PREVIEW --bind $FB_CASK_BIND)
 
     if [[ $inst ]]; then
         for prog in $(echo $inst); do; brew uninstall --cask $prog; done;
@@ -72,14 +74,14 @@ function fuzzy_cask_uninstall() {
 function fuzzy_show_json_file(){
   local filename=$1
   if [[ $filename ]]; then
-    command cat $filename | fzf --preview 'echo {} | jq -C'
+    command cat $filename | fmux --preview 'echo {} | jq -C'
   fi
 
 }
 
   function frg {
       result=$(rg --ignore-case --color=always --line-number --no-heading "$@" |
-        fzf --ansi \
+        fmux --ansi \
             --color 'hl:-1:underline,hl+:-1:underline:reverse' \
             --delimiter ':' \
             --preview "bat --color=always {1} --theme='Solarized (light)' --highlight-line {2}" )
@@ -90,8 +92,23 @@ function fuzzy_show_json_file(){
       fi
     }
 
+
+function sd()
+{
+  local dirr=$(fd --color=always $@ | fzf-tmux -p 70%,75% --preview " [[ -f {} ]] && bat -f {} || eza -lah --color=always --tree {}")
+  [[ -f $dirr ]] && nvim $dirr && return
+  [[ -d $dirr ]] && cd $dirr && return
+}
+
+function ta()
+{
+  local sess=$(tmux list-sessions | fmux |sed -E 's/:.*$//')
+  [[ $sess ]] && tmux a -t $sess 2> /dev/null || tmux switchc -t $sess
+}
+
 alias fcj='fuzzy_show_json_file'
-alias fjq='fzf --preview "echo {} | jq -C"'
+alias fjq='fmux --preview "echo {} | jq -C"'
+alias fjq='fd'
 alias fbi=fuzzy_brew_install
 alias fbui=fuzzy_brew_uninstall
 alias fci=fuzzy_cask_install

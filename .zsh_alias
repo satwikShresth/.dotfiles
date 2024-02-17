@@ -13,8 +13,14 @@ alias  cd...='cd ../..'
 alias  reset_yabai='rm /tmp/yabai* && yabai --start-service'
 
 
+#tmux
+alias fmux='fzf-tmux -p 70%,75%'
+
+
 #neovim
 alias nfd='nvim -c "call FuzzyCurWorkDir()" '
+alias vim='tmux split-pane nvim'
+alias hvim='tmux split-pane -h nvim'
 
 #rm stuff
 alias rmr='rm -r'

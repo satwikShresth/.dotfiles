@@ -1,5 +1,5 @@
-let s:commonFdDict= {'window':{'width':0.9,'height':0.9},'source': 'fd -H .','sink': 'tabnew','options':'--preview " [[ -f {} ]] && bat -f {} || eza -lah --color=always --tree {}"'}
-let s:commonRgDict= {'window':{'width':0.9,'height':0.9},'source': 'rg --hidden --ignore-case  --line-number --no-heading "."','sink': 'tabnew','options':"--ansi --color 'hl:-1:underline,hl+:-1:underline:reverse' --delimiter ':' --preview \"bat --color=always {1} --theme='Solarized (light)' --highlight-line {2}\""}
+let s:commonFdDict= {'window':{'width':0.9,'height':0.9},'tmux': '-p 70%,75%','source': 'fd .','sink': 'tabnew','options':'--preview " [[ -f {} ]] && bat -f {} || eza -lah --color=always --tree {}"'}
+let s:commonRgDict= {'window':{'width':0.9,'height':0.9},'tmux': '-p 70%,75%','source': 'rg --ignore-case  --line-number --no-heading "."','sink': 'tabnew','options':"--ansi --color 'hl:-1:underline,hl+:-1:underline:reverse' --delimiter ':' --preview \"bat --color=always {1} --theme='Solarized (light)' --highlight-line {2}\""}
 
 function! FuzzyCurBuffDir()
   let l:localDict =copy(s:commonFdDict)
@@ -58,7 +58,7 @@ function! FuzzyRipAllCurrBuff()
   let l:keys = keys(l:dict)
 
   let l:localDict =copy(s:commonRgDict)
-  let l:localDict['source']= "rg --hidden --ignore-case --line-number --no-heading \".\" ".join(l:keys," ")
+  let l:localDict['source']= "rg --ignore-case --line-number --no-heading \".\" ".join(l:keys," ")
   echo l:localDict['source']
   call remove(l:localDict,'sink')
   let l:localDict['sink*']= function('s:gotoBufLine')
